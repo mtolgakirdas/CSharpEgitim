@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu04Operatorler", "Konu04Operatorler\Konu04Operatorler.csproj", "{D39A2C82-C079-4421-9693-C3267A7668ED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu05KosulYapilari", "Konu05KosulYapilari\Konu05KosulYapilari.csproj", "{067012C3-4A14-4866-9280-B5BB01456A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu06Donguler", "Konu06Donguler\Konu06Donguler.csproj", "{694267BF-8A11-47A3-8815-1EF99065EA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu06DonguOrnekleri", "Konu06DonguOrnekleri\Konu06DonguOrnekleri.csproj", "{642C8DCF-D6AC-4B1B-A851-ECC3545D8E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu07Diziler", "Konu07Diziler\Konu07Diziler.csproj", "{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{067012C3-4A14-4866-9280-B5BB01456A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067012C3-4A14-4866-9280-B5BB01456A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067012C3-4A14-4866-9280-B5BB01456A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694267BF-8A11-47A3-8815-1EF99065EA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694267BF-8A11-47A3-8815-1EF99065EA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694267BF-8A11-47A3-8815-1EF99065EA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694267BF-8A11-47A3-8815-1EF99065EA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642C8DCF-D6AC-4B1B-A851-ECC3545D8E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642C8DCF-D6AC-4B1B-A851-ECC3545D8E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642C8DCF-D6AC-4B1B-A851-ECC3545D8E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642C8DCF-D6AC-4B1B-A851-ECC3545D8E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
