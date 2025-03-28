@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu06DonguOrnekleri", "Kon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu07Diziler", "Konu07Diziler\Konu07Diziler.csproj", "{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu08ForeachDongusu", "Konu08ForeachDongusu\Konu08ForeachDongusu.csproj", "{0705ADB1-DCAE-4C35-A1CC-7D6ED1559767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu09Methotlar", "Konu09Methotlar\Konu09Methotlar.csproj", "{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +43,19 @@ Global
 		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C45A8D9-0094-45EA-BAF0-BA2A3E709B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0705ADB1-DCAE-4C35-A1CC-7D6ED1559767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0705ADB1-DCAE-4C35-A1CC-7D6ED1559767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0705ADB1-DCAE-4C35-A1CC-7D6ED1559767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0705ADB1-DCAE-4C35-A1CC-7D6ED1559767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E716B6F2-535E-40D1-81BB-804476F10C15}
 	EndGlobalSection
 EndGlobal
