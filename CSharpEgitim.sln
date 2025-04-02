@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu08ForeachDongusu", "Kon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu09Methotlar", "Konu09Methotlar\Konu09Methotlar.csproj", "{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu10DatabaseProje", "Konu10DatabaseProje\Konu10DatabaseProje.csproj", "{C067E0DF-B2BB-4E2F-823B-0714166DFBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu11DatabaseCRUD", "Konu11DatabaseCRUD\Konu11DatabaseCRUD.csproj", "{1DAB2BBA-139C-40E6-971E-87E4A2CDEB93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E66158D0-DA79-4D38-B6CB-61AD7B5C45EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C067E0DF-B2BB-4E2F-823B-0714166DFBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C067E0DF-B2BB-4E2F-823B-0714166DFBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C067E0DF-B2BB-4E2F-823B-0714166DFBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C067E0DF-B2BB-4E2F-823B-0714166DFBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB2BBA-139C-40E6-971E-87E4A2CDEB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAB2BBA-139C-40E6-971E-87E4A2CDEB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAB2BBA-139C-40E6-971E-87E4A2CDEB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAB2BBA-139C-40E6-971E-87E4A2CDEB93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
